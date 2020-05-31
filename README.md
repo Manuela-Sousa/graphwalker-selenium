@@ -1,6 +1,6 @@
 # GraphWalker_Selenium
 
-This is a simple example of using GraphWalker with Selenium. 
+This is a simple example of using Model-Based Testing tool GraphWalker with Selenium. 
 
 ##### To Tun
 
